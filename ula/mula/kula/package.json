@@ -1,0 +1,11 @@
+{
+  "name": "@lukasz/barabash",
+  "version": "1.0.0",
+  "description": "this repo is found because it mentiones asyncapi and generator even though they are not in dependencies",
+  "dependencies": {
+    "@asyncapi/generatorka": "0.36.4"
+  },
+  "devDependencies": {
+    "@asyncapi/generatorka": "0.37.0"
+  }
+}
