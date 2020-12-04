@@ -1,11 +1,11 @@
 {
   "name": "@lukasz/barabash",
   "version": "1.0.0",
-  "description": "this repo is found because it mentiones asyncapi and generator even though they are not in dependencies",
+  "description": "this repo is found because it has similar name of dependency",
   "dependencies": {
-    "@asyncapi/generatorka": "0.36.4"
+    "@asyncapi/generator-sdk": "0.36.4"
   },
   "devDependencies": {
-    "@asyncapi/generatorka": "0.37.0"
+    "@asyncapi/generator-sdk": "0.37.0"
   }
 }
