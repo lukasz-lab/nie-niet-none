@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "this repo is found because it has similar name of dependency",
   "dependencies": {
-    "@asyncapi/generator-sdk": "0.36.4"
+    "@asyncapi/generator": "1.17.0"
   },
   "devDependencies": {
-    "@asyncapi/generator-sdk": "0.37.0"
+    "@asyncapi/generator": "1.17.0"
   }
 }
