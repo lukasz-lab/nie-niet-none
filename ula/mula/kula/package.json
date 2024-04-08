@@ -4,8 +4,5 @@
   "description": "this repo is found because it has similar name of dependency",
   "dependencies": {
     "@asyncapi/generator": "1.17.0"
-  },
-  "devDependencies": {
-    "rimraf": "1.17.0"
   }
 }
