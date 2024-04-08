@@ -6,6 +6,6 @@
     "@asyncapi/generator": "1.17.0"
   },
   "devDependencies": {
-    "@asyncapi/generator": "1.17.0"
+    "rimraf": "1.17.0"
   }
 }
